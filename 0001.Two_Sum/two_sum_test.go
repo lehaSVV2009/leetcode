@@ -11,8 +11,8 @@ func Test_Two_Sum(t *testing.T) {
 	target := 3
 
 	// when
-  result := TwoSum(numbers, target)
+  result := twoSum(numbers, target)
 
 	// then
-	assert.ElementsMatch(t, result, []int{0, 3})
+	assert.ElementsMatch(t, result, []int{1, 3})
 }
