@@ -1,4 +1,4 @@
-package task_0001
+package task0001
 
 func twoSum(numbers []int, target int) []int {
 	for firstArgIndex, number := range numbers {
