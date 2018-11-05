@@ -15,7 +15,7 @@ func Test_two_sum_1_bruteforce(t *testing.T) {
 	result := twoSum(numbers, target)
 
 	// then
-	assert.Equal(t, result, []int{1, 3})
+	assert.Equal(t, []int{1, 3}, result)
 }
 
 func Test_two_Sum_2_map(t *testing.T) {
@@ -27,5 +27,5 @@ func Test_two_Sum_2_map(t *testing.T) {
 	result := twoSum2(numbers, target)
 
 	// then
-	assert.Equal(t, result, []int{1, 3})
+	assert.Equal(t, []int{1, 3}, result)
 }
