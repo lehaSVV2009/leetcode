@@ -30,5 +30,6 @@ My solutions on Leetcode (Java, SQL, Golang)
 |[626](https://leetcode.com/problems/exchange-seats)|[Exchange Seats](/0626.Exchange_Seats)|54.30%|Medium|
 |[627](https://leetcode.com/problems/swap-salary)|[Swap Salary](/0627.Swap_Salary)|68.60%|Easy|
 |[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes)|[Minimum Distance Between BST Nodes](/0783.Minimum_Distance_Between_BST_Nodes)|50.40%|Easy|
+|[876](https://leetcode.com/problems/middle-of-the-linked-list)|[Middle of the Linked List](/0893.Middle_of_the_Linked_List)|64.00%|Easy|
 |[893](https://leetcode.com/problems/groups-of-special-equivalent-strings)|[Groups of Special-Equivalent Strings](/0893.Groups_of_Special-Equivalent_Strings)|62.30%|Easy|
 |[896](https://leetcode.com/problems/monotonic-array)|[Monotonic Array](/0896.Monotonic_Array)|55.20%|Easy|
