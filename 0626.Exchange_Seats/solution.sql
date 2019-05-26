@@ -1,0 +1,1 @@
+select if (seat.id % 2 = 0, seat.id - 1, if (seatLength.length = seat.id, seat.id, seat.id + 1)) as id, seat.student as student from seat, (select count(*) as length from seat) as seatLength order by id;
