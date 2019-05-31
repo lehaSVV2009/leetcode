@@ -9,6 +9,7 @@ My solutions on Leetcode (Java, SQL, Golang)
 |[9](https://leetcode.com/problems/palindrome-number)|[Palindrome Number](/0009.Palindrome_Number)|43.30%|Easy|
 |[10](https://leetcode.com/problems/regular-expression-matching)|[Regular Expression Matching](/0010.Regular_Expression_Matching)|25.30%|Hard|
 |[14](https://leetcode.com/problems/longest-common-prefix)|[Longest Common Prefix](/0014.Longest_Common_Prefix)|33.50%|Easy|
+|[53](https://leetcode.com/problems/maximum-subarray/)|[Maximum Subarray](/0053.Maximum_Subarray)|43.6%|Easy|
 |[59](https://leetcode.com/problems/spiral-matrix-ii)|[Spiral Matrix II](/0014.Spiral_Matrix_II)|46.6%|Medium|
 |[146](https://leetcode.com/problems/lru-cache)|[LRU Cache](/0146.LRU_Cache)|25.40%|Hard|
 |[175](https://leetcode.com/problems/combine-two-tables)|[Combine Two Tables](/0175.Combine_Two_Tables)|51.60%|Easy|
