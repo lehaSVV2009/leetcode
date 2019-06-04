@@ -35,5 +35,6 @@ My solutions on Leetcode (Java, SQL, Golang)
 |[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes)|[Minimum Distance Between BST Nodes](/0783.Minimum_Distance_Between_BST_Nodes)|50.40%|Easy|
 |[848](https://leetcode.com/problems/shifting-letters)|[Shifting Letters](/0848.Shifting_Letters)|40.60%|Medium|
 |[876](https://leetcode.com/problems/middle-of-the-linked-list)|[Middle of the Linked List](/0893.Middle_of_the_Linked_List)|64.00%|Easy|
+|[884](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Uncommon Words from Two Sentences](/0884.Uncommon_Words_from_Two_Sentences)|60.8%|Easy|
 |[893](https://leetcode.com/problems/groups-of-special-equivalent-strings)|[Groups of Special-Equivalent Strings](/0893.Groups_of_Special-Equivalent_Strings)|62.30%|Easy|
 |[896](https://leetcode.com/problems/monotonic-array)|[Monotonic Array](/0896.Monotonic_Array)|55.20%|Easy|
