@@ -38,3 +38,4 @@ My solutions on Leetcode (Java, SQL, Golang)
 |[884](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Uncommon Words from Two Sentences](/0884.Uncommon_Words_from_Two_Sentences)|60.8%|Easy|
 |[893](https://leetcode.com/problems/groups-of-special-equivalent-strings)|[Groups of Special-Equivalent Strings](/0893.Groups_of_Special-Equivalent_Strings)|62.30%|Easy|
 |[896](https://leetcode.com/problems/monotonic-array)|[Monotonic Array](/0896.Monotonic_Array)|55.20%|Easy|
+|[1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon)|40.7%|Medium|
