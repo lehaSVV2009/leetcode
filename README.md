@@ -1,5 +1,5 @@
 # leetcode
-My solutions on Leetcode (Java, SQL, Golang)
+My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 
 ## Solutions
 | # | Topic | Acceptance | Difficulty |
@@ -25,6 +25,7 @@ My solutions on Leetcode (Java, SQL, Golang)
 |[196](https://leetcode.com/problems/delete-duplicate-emails)|[Delete Duplicate Emails](/0196.Delete_Duplicate_Emails)|32.60%|Easy|
 |[197](https://leetcode.com/problems/rising-temperature)|[Rising Temperature](/0197.Rising_Temperature)|34.70%|Easy|
 |[207](https://leetcode.com/problems/course-schedule/)|[Course Schedule](/0207.Course_Schedule)|37.9%|Medium|
+|[234](https://leetcode.com/problems/palindrome-linked-list/)|[Palindrome Linked List](/0234.Palindrome_Linked_List)|36.2%|Easy|
 |[262](https://leetcode.com/problems/trips-and-users)|[Trips and Users](/0262.Trips_and_Users)|24.90%|Hard|
 |[595](https://leetcode.com/problems/big-countries)|[Big Countries](/0595.Big_Countries)|73.70%|Easy|
 |[596](https://leetcode.com/problems/classes-more-than-5-students)|[Classes More Than 5 Students](/0596.Classes_More_Than_5_Students)|35.50%|Easy|
