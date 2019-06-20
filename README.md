@@ -5,6 +5,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | # | Topic | Acceptance | Difficulty |
 |---|-------|------------|------------|
 |[1](https://leetcode.com/problems/two-sum)|[Two Sum](/0001.Two_Sum)|44.20%|Easy|
+|[2](https://leetcode.com/problems/add-two-numbers)|[Add Two Numbers](/0002.Add_Two_Numbers)|31.2%|Medium|
 |[7](https://leetcode.com/problems/reverse-integer)|[Reverse Integer](/0007.Reverse_Integer)|25.30%|Easy|
 |[9](https://leetcode.com/problems/palindrome-number)|[Palindrome Number](/0009.Palindrome_Number)|43.30%|Easy|
 |[10](https://leetcode.com/problems/regular-expression-matching)|[Regular Expression Matching](/0010.Regular_Expression_Matching)|25.30%|Hard|
