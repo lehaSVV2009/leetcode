@@ -7,6 +7,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[1](https://leetcode.com/problems/two-sum)|[Two Sum](/0001.Two_Sum)|44.20%|Easy|
 |[2](https://leetcode.com/problems/add-two-numbers)|[Add Two Numbers](/0002.Add_Two_Numbers)|31.2%|Medium|
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Longest Substring Without Repeating Characters](/0003.Longest_Substring_Without_Repeating_Characters)|28.5%|Medium|
+|[4](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Median of Two Sorted Arrays](/0004.Median_of_Two_Sorted_Arrays)|26.6%|Hard|
 |[7](https://leetcode.com/problems/reverse-integer)|[Reverse Integer](/0007.Reverse_Integer)|25.30%|Easy|
 |[9](https://leetcode.com/problems/palindrome-number)|[Palindrome Number](/0009.Palindrome_Number)|43.30%|Easy|
 |[10](https://leetcode.com/problems/regular-expression-matching)|[Regular Expression Matching](/0010.Regular_Expression_Matching)|25.30%|Hard|
