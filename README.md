@@ -14,6 +14,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[14](https://leetcode.com/problems/longest-common-prefix)|[Longest Common Prefix](/0014.Longest_Common_Prefix)|33.50%|Easy|
 |[53](https://leetcode.com/problems/maximum-subarray/)|[Maximum Subarray](/0053.Maximum_Subarray)|43.6%|Easy|
 |[59](https://leetcode.com/problems/spiral-matrix-ii)|[Spiral Matrix II](/0014.Spiral_Matrix_II)|46.6%|Medium|
+|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock)|47.5%|Easy|
 |[146](https://leetcode.com/problems/lru-cache)|[LRU Cache](/0146.LRU_Cache)|25.40%|Hard|
 |[175](https://leetcode.com/problems/combine-two-tables)|[Combine Two Tables](/0175.Combine_Two_Tables)|51.60%|Easy|
 |[176](https://leetcode.com/problems/second-highest-salary)|[Second Highest Salary](/0176.Second_Highest_Salary)|27.10%|Easy|
