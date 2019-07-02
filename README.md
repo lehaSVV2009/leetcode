@@ -16,6 +16,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[59](https://leetcode.com/problems/spiral-matrix-ii)|[Spiral Matrix II](/0014.Spiral_Matrix_II)|46.6%|Medium|
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock)|47.5%|Easy|
 |[146](https://leetcode.com/problems/lru-cache)|[LRU Cache](/0146.LRU_Cache)|25.40%|Hard|
+|[172](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Factorial Trailing Zeroes](/0172.Factorial_Trailing_Zeroes)|37.40%|Easy|
 |[175](https://leetcode.com/problems/combine-two-tables)|[Combine Two Tables](/0175.Combine_Two_Tables)|51.60%|Easy|
 |[176](https://leetcode.com/problems/second-highest-salary)|[Second Highest Salary](/0176.Second_Highest_Salary)|27.10%|Easy|
 |[177](https://leetcode.com/problems/nth-highest-salary)|[Nth Highest Salary](/0177.Nth_Highest_Salary)|26.20%|Medium|
