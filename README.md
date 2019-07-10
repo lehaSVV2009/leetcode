@@ -33,6 +33,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[197](https://leetcode.com/problems/rising-temperature)|[Rising Temperature](/0197.Rising_Temperature)|34.70%|Easy|
 |[207](https://leetcode.com/problems/course-schedule/)|[Course Schedule](/0207.Course_Schedule)|37.9%|Medium|
 |[234](https://leetcode.com/problems/palindrome-linked-list/)|[Palindrome Linked List](/0234.Palindrome_Linked_List)|36.2%|Easy|
+|[242](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](/0242.Valid_Anagram)|52.7%|Easy|
 |[262](https://leetcode.com/problems/trips-and-users)|[Trips and Users](/0262.Trips_and_Users)|24.90%|Hard|
 |[324](https://leetcode.com/problems/wiggle-sort-ii)|[Wiggle Sort II](/0324.Wiggle_Sort_II)|28.00%|Medium|
 |[595](https://leetcode.com/problems/big-countries)|[Big Countries](/0595.Big_Countries)|73.70%|Easy|
