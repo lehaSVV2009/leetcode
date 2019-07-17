@@ -36,6 +36,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[242](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](/0242.Valid_Anagram)|52.7%|Easy|
 |[262](https://leetcode.com/problems/trips-and-users)|[Trips and Users](/0262.Trips_and_Users)|24.90%|Hard|
 |[324](https://leetcode.com/problems/wiggle-sort-ii)|[Wiggle Sort II](/0324.Wiggle_Sort_II)|28.00%|Medium|
+|[554](https://leetcode.com/problems/brick-wall/)|[Brick Wall](/0554.Brick_Wall)|47.9%|Medium|
 |[595](https://leetcode.com/problems/big-countries)|[Big Countries](/0595.Big_Countries)|73.70%|Easy|
 |[596](https://leetcode.com/problems/classes-more-than-5-students)|[Classes More Than 5 Students](/0596.Classes_More_Than_5_Students)|35.50%|Easy|
 |[601](https://leetcode.com/problems/human-traffic-of-stadium)|[Human Traffic of Stadium](/0601.Human_Traffic_of_Stadium)|36.40%|Hard|
