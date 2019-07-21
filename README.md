@@ -51,3 +51,4 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[896](https://leetcode.com/problems/monotonic-array)|[Monotonic Array](/0896.Monotonic_Array)|55.20%|Easy|
 |[912](https://leetcode.com/problems/sort-an-array/)|[Sort an Array](/0912.Sort_an_Array)|63.5%|Medium|
 |[1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon)|40.7%|Medium|
+|[Pramp](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1)|[Time Planner](/Pramp.Time_Planner)||Medium|
