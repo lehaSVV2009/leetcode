@@ -9,6 +9,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 3. Probably add column with links to GeekForGeeks, InterviewBit, Pramp, etc.
 4. Skip ID for non-leetcode solutions 
 5. Add asked in (Google, Microsoft, etc.) column.
+6. Add potential category of algorithms 
 
 | # | Topic | Acceptance | Difficulty |
 |---|-------|------------|------------|
