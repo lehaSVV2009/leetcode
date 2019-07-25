@@ -2,6 +2,13 @@
 My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 
 ## Solutions
+
+**TODO restructure!**
+1. Remove Acceptance
+2. Add Runtime/Memory beats percent
+3. Probably add column with links to GeekForGeeks, InterviewBit, Pramp, etc.
+4. Skip ID for non-leetcode solutions 
+
 | # | Topic | Acceptance | Difficulty |
 |---|-------|------------|------------|
 |[1](https://leetcode.com/problems/two-sum)|[Two Sum](/0001.Two_Sum)|44.20%|Easy|
@@ -16,6 +23,8 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[53](https://leetcode.com/problems/maximum-subarray/)|[Maximum Subarray](/0053.Maximum_Subarray)|43.6%|Easy|
 |[59](https://leetcode.com/problems/spiral-matrix-ii)|[Spiral Matrix II](/0014.Spiral_Matrix_II)|46.6%|Medium|
 |[62](https://leetcode.com/problems/unique-paths/)|[Unique Paths](/0062.Unique_Paths)|48.1%|Medium|
+|[118](https://leetcode.com/problems/pascals-triangle/)|[Pascal's Triangle
+](/0118.Pascal_Triangle)|47.0%|Easy
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock)|47.5%|Easy|
 |[146](https://leetcode.com/problems/lru-cache)|[LRU Cache](/0146.LRU_Cache)|25.40%|Hard|
 |[172](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Factorial Trailing Zeroes](/0172.Factorial_Trailing_Zeroes)|37.40%|Easy|
@@ -51,4 +60,5 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[896](https://leetcode.com/problems/monotonic-array)|[Monotonic Array](/0896.Monotonic_Array)|55.20%|Easy|
 |[912](https://leetcode.com/problems/sort-an-array/)|[Sort an Array](/0912.Sort_an_Array)|63.5%|Medium|
 |[1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon)|40.7%|Medium|
+|[InterviewBit](https://www.interviewbit.com/problems/wave-array/)|[Wave Array](/InterviewBit.Wave_Array)||Easy|
 |[Pramp](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1)|[Time Planner](/Pramp.Time_Planner)||Medium|
