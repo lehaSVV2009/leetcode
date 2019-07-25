@@ -8,6 +8,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 2. Add Runtime/Memory beats percent
 3. Probably add column with links to GeekForGeeks, InterviewBit, Pramp, etc.
 4. Skip ID for non-leetcode solutions 
+5. Add asked in (Google, Microsoft, etc.) column.
 
 | # | Topic | Acceptance | Difficulty |
 |---|-------|------------|------------|
