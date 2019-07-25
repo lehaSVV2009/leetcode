@@ -46,6 +46,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 |[234](https://leetcode.com/problems/palindrome-linked-list/)|[Palindrome Linked List](/0234.Palindrome_Linked_List)|36.2%|Easy|
 |[242](https://leetcode.com/problems/valid-anagram/)|[Valid Anagram](/0242.Valid_Anagram)|52.7%|Easy|
 |[262](https://leetcode.com/problems/trips-and-users)|[Trips and Users](/0262.Trips_and_Users)|24.90%|Hard|
+|[287](https://leetcode.com/problems/find-the-duplicate-number/)|[Find the Duplicate Number](0287.Find_the_Duplicate_Number)|50.3%|Medium|
 |[324](https://leetcode.com/problems/wiggle-sort-ii)|[Wiggle Sort II](/0324.Wiggle_Sort_II)|28.00%|Medium|
 |[554](https://leetcode.com/problems/brick-wall/)|[Brick Wall](/0554.Brick_Wall)|47.9%|Medium|
 |[595](https://leetcode.com/problems/big-countries)|[Big Countries](/0595.Big_Countries)|73.70%|Easy|
