@@ -17,7 +17,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](/0053.Maximum_Subarray) | Easy |  |  |  |  |
 | [59](https://leetcode.com/problems/spiral-matrix-ii) | [Spiral Matrix II](/0014.Spiral_Matrix_II) | Medium |  |  |  |  |
 | [62](https://leetcode.com/problems/unique-paths/) | [Unique Paths](/0062.Unique_Paths) | Medium |  |  |  |  |
-| [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](/0073.Set_Matrix_Zeroes) | Medium | 100% | 5% | `Oracle`, `Amazon` |  |
+| [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](/0073.Set_Matrix_Zeroes) | Medium | 100% | 5% | `Oracle` `Amazon` |  |
 | [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](/0118.Pascal_Triangle) | Easy |  |  |  |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock) | Easy |  |  |  |  |
 | [146](https://leetcode.com/problems/lru-cache) | [LRU Cache](/0146.LRU_Cache) | Hard |  |  |  |  |
