@@ -14,6 +14,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [9](https://leetcode.com/problems/palindrome-number) | [Palindrome Number](/0009.Palindrome_Number) | Easy |  |  |  |  |
 | [10](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](/0010.Regular_Expression_Matching) | Hard |  |  |  |  |
 | [14](https://leetcode.com/problems/longest-common-prefix) | [Longest Common Prefix](/0014.Longest_Common_Prefix) | Easy |  |  |  |  |
+| [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](/0048.Rotate_Image) | Medium | 100% | 98.24% | `Google` `Facebook` `Amazon` |  |
 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](/0053.Maximum_Subarray) | Easy | 88% | 7% | `Facebook` `Paypal` `Amazon` `LinkedIn` `Microsoft` `Yahoo` |  |
 | [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](/0056.Merge_Intervals) | Medium | 25% | 99% | `Google` `Amazon` |  |
 | [59](https://leetcode.com/problems/spiral-matrix-ii) | [Spiral Matrix II](/0014.Spiral_Matrix_II) | Medium |  |  |  |  |
