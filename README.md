@@ -60,4 +60,4 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](/0912.Sort_an_Array) | Medium |  |  |  |  |
 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon) | Medium |  |  |  |  |
 | [![](interviewbit.png)](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
-| [![](pramp.png) <!-- .element height="20px" width="20px" -->](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
+| [<img src="pramp.png" />](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
