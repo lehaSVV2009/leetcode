@@ -7,7 +7,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 
 | Links | Topic | Difficulty | Runtime Beats | Memory Beats | Asked In | Category |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------|---------------|--------------|--------------------|----------|
-| [![](leetcode.png | width=20)](https://leetcode.com/problems/two-sum) | [Two Sum](/0001.Two_Sum) | Easy |  |  |  |  |
+| [![](leetcode.png) <!-- .element height="20px" width="20px" -->](https://leetcode.com/problems/two-sum) | [Two Sum](/0001.Two_Sum) | Easy |  |  |  |  |
 | [2](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](/0002.Add_Two_Numbers) | Medium |  |  |  |  |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/0003.Longest_Substring_Without_Repeating_Characters) | Medium |  |  |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/0004.Median_of_Two_Sorted_Arrays) | Hard |  |  |  |  |
@@ -59,5 +59,5 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [896](https://leetcode.com/problems/monotonic-array) | [Monotonic Array](/0896.Monotonic_Array) | Easy |  |  |  |  |
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](/0912.Sort_an_Array) | Medium |  |  |  |  |
 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon) | Medium |  |  |  |  |
-| [InterviewBit](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
-| [Pramp](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
+| [![](interviewbit.png)](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
+| [![](pramp.png)](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
