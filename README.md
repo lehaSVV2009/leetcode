@@ -20,6 +20,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](/0048.Rotate_Image) | Medium | 100% | 98.24% | `Google` `Facebook` `Amazon` |  |
 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](/0053.Maximum_Subarray) | Easy | 88% | 7% | `Facebook` `Paypal` `Amazon` `LinkedIn` `Microsoft` `Yahoo` |  |
 | [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](/0056.Merge_Intervals) | Medium | 25% | 99% | `Google` `Amazon` |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/length-of-last-word/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/length-of-last-word/) | [Length of Last Word](/0058.Length_of_Last_Word) | Easy | 100% | 100% | `Amazon` |  |
 | [59](https://leetcode.com/problems/spiral-matrix-ii) | [Spiral Matrix II](/0014.Spiral_Matrix_II) | Medium |  |  |  |  |
 | [62](https://leetcode.com/problems/unique-paths/) | [Unique Paths](/0062.Unique_Paths) | Medium |  |  |  |  |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](/0073.Set_Matrix_Zeroes) | Medium | 100% | 5% | `Oracle` `Amazon` |  |
