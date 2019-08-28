@@ -50,6 +50,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [262](https://leetcode.com/problems/trips-and-users) | [Trips and Users](/0262.Trips_and_Users) | Hard |  |  |  |  |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](0287.Find_the_Duplicate_Number) | Medium |  |  |  |  |
 | [324](https://leetcode.com/problems/wiggle-sort-ii) | [Wiggle Sort II](/0324.Wiggle_Sort_II) | Medium |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [N-ary Tree Level Order Traversal](/0429.Nary_Tree_Level_Order_Traversal) | Easy | 72.70% | 40.00% |  |  |
 | [554](https://leetcode.com/problems/brick-wall/) | [Brick Wall](/0554.Brick_Wall) | Medium |  |  |  |  |
 | [595](https://leetcode.com/problems/big-countries) | [Big Countries](/0595.Big_Countries) | Easy |  |  |  |  |
 | [596](https://leetcode.com/problems/classes-more-than-5-students) | [Classes More Than 5 Students](/0596.Classes_More_Than_5_Students) | Easy |  |  |  |  |
