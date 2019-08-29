@@ -13,6 +13,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/0004.Median_of_Two_Sorted_Arrays) | Hard |  |  |  |  |
 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](/0005.Longest_Palindromic_Substring) | Medium |  |  |  |  |
 | [7](https://leetcode.com/problems/reverse-integer) | [Reverse Integer](/0007.Reverse_Integer) | Easy |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/string-to-integer-atoi/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/atoi/)| [String to Integer (atoi)](/0008.String_to_Integer_atoi) | Medium | 60.06% | 100% | `Adobe` `Nvidia` `Amazon` `Microsoft` `Apple` |  |
 | [9](https://leetcode.com/problems/palindrome-number) | [Palindrome Number](/0009.Palindrome_Number) | Easy |  |  |  |  |
 | [10](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](/0010.Regular_Expression_Matching) | Hard |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/roman-to-integer/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/roman-to-integer/)| [Roman to Integer](/0013.Roman_to_Integer) | Easy | 5.04% | 100% | `Amazon` `Facebook` `Microsoft` `Twitter` |  |
