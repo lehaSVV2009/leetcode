@@ -29,7 +29,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](/0073.Set_Matrix_Zeroes) | Medium | 100% | 5% | `Oracle` `Amazon` |  |
 | [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](/0118.Pascal_Triangle) | Easy |  |  |  |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock) | Easy |  |  |  |  |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/single-number/) | [Single Number](/0136.Single_Number) | Easy | 85.61% | 71.15% | `Amazon` |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/single-number/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/single-number/) | [Single Number](/0136.Single_Number) | Easy | 85.61% | 71.15% | `Amazon` |  |
 | [146](https://leetcode.com/problems/lru-cache) | [LRU Cache](/0146.LRU_Cache) | Hard |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/reverse-words-in-a-string/) | [Reverse Words in a String](/0151.Reverse_Words_in_a_String) | Medium | 53.91% | 55.91% |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](/0165.Compare_Version_Numbers) | Easy | 90.70% | 100% |  |  |
@@ -44,6 +44,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [183](https://leetcode.com/problems/customers-who-never-order) | [Customers Who Never Order](/0183.Customers_Who_Never_Order) | Easy |  |  |  |  |
 | [184](https://leetcode.com/problems/department-highest-salary) | [Department Highest Salary](/0184.Department_Highest_Salary) | Medium |  |  |  |  |
 | [185](https://leetcode.com/problems/department-top-three-salaries) | [Department Top Three Salaries](/0185.Department_Top_Three_Salaries) | Hard |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/number-of-1-bits/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/number-of-1-bits/) | [Number of 1 Bits](/0191.Number_of_1_Bits) | Easy | 52.63% | 5.41% | `Adobe` `Yahoo` |  |
 | [196](https://leetcode.com/problems/delete-duplicate-emails) | [Delete Duplicate Emails](/0196.Delete_Duplicate_Emails) | Easy |  |  |  |  |
 | [197](https://leetcode.com/problems/rising-temperature) | [Rising Temperature](/0197.Rising_Temperature) | Easy |  |  |  |  |
 | [207](https://leetcode.com/problems/course-schedule/) | [Course Schedule](/0207.Course_Schedule) | Medium |  |  |  |  |
