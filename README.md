@@ -11,7 +11,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [2](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](/0002.Add_Two_Numbers) | Medium |  |  |  |  |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](/0003.Longest_Substring_Without_Repeating_Characters) | Medium |  |  |  |  |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](/0004.Median_of_Two_Sorted_Arrays) | Hard |  |  |  |  |
-| [5](https://leetcode.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](/0005.Longest_Palindromic_Substring) | Medium |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/longest-palindromic-substring/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](/0005.Longest_Palindromic_Substring) | Medium |  |  | `Amazon` `Microsoft` `Groupon` |  |
 | [7](https://leetcode.com/problems/reverse-integer) | [Reverse Integer](/0007.Reverse_Integer) | Easy |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/string-to-integer-atoi/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/atoi/)| [String to Integer (atoi)](/0008.String_to_Integer_atoi) | Medium | 60.06% | 100% | `Adobe` `Nvidia` `Amazon` `Microsoft` `Apple` |  |
 | [9](https://leetcode.com/problems/palindrome-number) | [Palindrome Number](/0009.Palindrome_Number) | Easy |  |  |  |  |
