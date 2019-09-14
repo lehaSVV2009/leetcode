@@ -75,5 +75,6 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/amazing-subarrays/) | [Amazing Subarrays](/InterviewBit.Amazing_Subarrays) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/pretty-json/) | [Pretty Json](/InterviewBit.Pretty_Json) | Medium |  |  | `Facebook` `Microsoft` |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/min-xor-value/) | [Min XOR value](/InterviewBit.Min_XOR_value) | Medium |  |  | `Booking.com` |  |
+| [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/tutorial/two-pointers/) | [Two Pointers](/InterviewBit.Two_Pointers) | Easy |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/VKdqbrq6B1S5XAyGAOn4) | [Sentence Reverse](/Pramp.Sentence_Reverse) | Medium |  |  |  |  |
