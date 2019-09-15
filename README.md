@@ -78,3 +78,4 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/tutorial/two-pointers/) | [Two Pointers](/InterviewBit.Two_Pointers) | Easy |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/VKdqbrq6B1S5XAyGAOn4) | [Sentence Reverse](/Pramp.Sentence_Reverse) | Medium |  |  |  |  |
+| [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/yZm60L6d5juM7K38KYZ6) | [Island Count](/Pramp.Island_Count) | Medium |  |  |  |  |
