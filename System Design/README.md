@@ -12,6 +12,33 @@
 
 ## Practice
 
+### Civilization Web
+
+How to use:
+* Web online vs Bot
+
+Use cases:
+* Create game
+* Join game
+* Remove game
+* See generated map
+* Have only settlers
+* Move settlers
+* Build cities
+* Build settlers
+* Expand city
+* End turn
+* Bot
+
+![Civilization System Design](./civilization.jpeg)
+
+Main difficulties:
+* Non-mindless bot
+* Draw beautiful map
+* Connect moves/actions with turn
+* Logic to expand city/move units
+* Win condition
+
 ### Instagram Stories
 
 ![Instagram Stories System Design](./instagram_stories.jpg)
