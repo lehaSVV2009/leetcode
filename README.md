@@ -80,6 +80,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/tutorial/two-pointers/) | [Two Pointers](/InterviewBit.Two_Pointers) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/search-for-a-range/) | [Search for a Range](/InterviewBit.Search_for_a_Range) | Medium |  |  | `Google` `Microsoft` |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/implement-power-function/) | [Implement Power Function](/InterviewBit.Implement_Power_Function) | Hard |  |  | `Google` `LinkedIn` |  |
+| [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/) | [Intersection Of Sorted Arrays](/InterviewBit.Intersection_Of_Sorted_Arrays) | Easy |  |  | `Google` `Facebook` |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/VKdqbrq6B1S5XAyGAOn4) | [Sentence Reverse](/Pramp.Sentence_Reverse) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XlA) | [Find The Duplicates](/Pramp.Find_The_Duplicates) | Easy |  |  |  |  |
