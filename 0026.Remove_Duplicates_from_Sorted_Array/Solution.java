@@ -34,27 +34,20 @@ class Solution {
         // Solution 3
         // new Set(nums).length
         // but no effect to current array
-        
-        int i = 0,
-            j = 0,
-            length = nums.length;
-        
-        while (i < length) {
-            while (j < length && nums[i] == nums[j]) {
-                j++;
+
+        if (nums.length == 0) {
+            return 0;
+        }
+
+        int result = 0;
+
+        for (int j = 1; j < nums.length; ++j) {
+            if (nums[j] != nums[result]) {
+                result++;
+                nums[result] = nums[j];
             }
-            removeElementsFromArray(nums, i + 1, j);
-            length -= (j - i - 1);
-            i++;
-            j = i;
         }
 
-        return length;
-    }
-
-    public void removeElementsFromArray(int[] array, int fromIndex, int toIndex) {
-        for (int i = 0; i < array.length - toIndex; ++i) {
-            array[fromIndex + i] = array[toIndex + i];
-        }
+        return result + 1;
     }
 }
