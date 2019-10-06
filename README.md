@@ -84,6 +84,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/implement-power-function/) | [Implement Power Function](/InterviewBit.Implement_Power_Function) | Hard |  |  | `Google` `LinkedIn` |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/) | [Intersection Of Sorted Arrays](/InterviewBit.Intersection_Of_Sorted_Arrays) | Easy |  |  | `Google` `Facebook` |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/3-sum-zero/) | [3 Sum Zero](/InterviewBit.3_Sum_Zero) | Medium |  |  | `Google` `Facebook` |  |
+| [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/minimize-the-absolute-difference/) | [Minimize The Absolute Difference](/InterviewBit.Minimize_The_Absolute_Difference) | Medium |  |  | `Microsoft` |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/VKdqbrq6B1S5XAyGAOn4) | [Sentence Reverse](/Pramp.Sentence_Reverse) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XlA) | [Find The Duplicates](/Pramp.Find_The_Duplicates) | Easy |  |  |  |  |
