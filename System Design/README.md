@@ -12,32 +12,60 @@
 
 ## Practice
 
+### Google Photos
+
+How to use:
+
+- Web + Mobile
+
+Use cases:
+
+- Add photo
+  [Add photo](./google_photos_add_photo.jpg)
+- See recent photos
+  [Recent photos](./google_photos_recent_photos.jpg)
+- Share photo
+  [Share photo](./google_photos_share_photos.jpg)
+- See shared photos
+  [Shared photos](./gooogle_photos_shared_photos.jpg)
+- Pricing
+  [Pricing](./google_photos_pricing.jpg)
+
+Main difficulties:
+
+- How to handle too large distributed file storage?
+- What to do with too many old photos rows to not load DB (cold storage?)
+- How to enable so many connections for upload?
+
 ### Civilization Web
 
 How to use:
-* Web online vs Bot
+
+- Web online vs Bot
 
 Use cases:
-* Create game
-* Join game
-* Remove game
-* See generated map
-* Have only settlers
-* Move settlers
-* Build cities
-* Build settlers
-* Expand city
-* End turn
-* Bot
+
+- Create game
+- Join game
+- Remove game
+- See generated map
+- Have only settlers
+- Move settlers
+- Build cities
+- Build settlers
+- Expand city
+- End turn
+- Bot
 
 ![Civilization System Design](./civilization.jpeg)
 
 Main difficulties:
-* Non-mindless bot
-* Draw beautiful map
-* Connect moves/actions with turn
-* Logic to expand city/move units
-* Win condition
+
+- Non-mindless bot
+- Draw beautiful map
+- Connect moves/actions with turn
+- Logic to expand city/move units
+- Win condition
 
 ### Instagram Stories
 
@@ -45,31 +73,32 @@ Main difficulties:
 
 https://leetcode.com/discuss/interview-question/system-design/350261/Facebook-or-Design-an-instagram-stories-app-for-iOS
 
-* Link path of uploaded file with user story in DB, as well as `animation_type` + `animation_position` and `created_date`
+- Link path of uploaded file with user story in DB, as well as `animation_type` + `animation_position` and `created_date`
 
 ### Splitwise
 
 https://leetcode.com/discuss/interview-question/system-design/306519/System-Design-or-Splitwise
 
-* Complexity is in algorithm (how to split 500 USD between 7 people)
-* You can store table with current user status (expenses) and separate table with debts
-* `{ type: 'half', payers: [{ user_id: 1, sum: 250, currency: 'USD' }], debtors: [{ user_id: 2 }, { user_id: 3 }] }`
+- Complexity is in algorithm (how to split 500 USD between 7 people)
+- You can store table with current user status (expenses) and separate table with debts
+- `{ type: 'half', payers: [{ user_id: 1, sum: 250, currency: 'USD' }], debtors: [{ user_id: 2 }, { user_id: 3 }] }`
 
 ### Coupon/voucher system
 
 https://leetcode.com/discuss/interview-question/system-design/353302/Design-a-couponvoucher-management-system-or-DellEMC
 
-* Always look at date columns like `assigned_at`
+- Always look at date columns like `assigned_at`
 
 ### Url shortener
 
 https://leetcode.com/discuss/interview-question/system-design/124658/Design-URL-Shortening-service-like-TinyURL
 
-* Generate random `short_key` like `abc46f`, it will allow to use `(10+33)^6` options
-* Retry if `short_key` is already in DB (e.g. `short_key` has `unique` constrain in DB)
-* If there are too many retries, increase `short_key` length to 1, `(10+33)^7` options
-* Monitor DB memory, think about sharding if there are too many
+- Generate random `short_key` like `abc46f`, it will allow to use `(10+33)^6` options
+- Retry if `short_key` is already in DB (e.g. `short_key` has `unique` constrain in DB)
+- If there are too many retries, increase `short_key` length to 1, `(10+33)^7` options
+- Monitor DB memory, think about sharding if there are too many
 
 ## Resources
-* How to Succeed in a System Design Interview - https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26
-* Cheat sheet - https://gist.github.com/vasanthk/485d1c25737e8e72759f
+
+- How to Succeed in a System Design Interview - https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26
+- Cheat sheet - https://gist.github.com/vasanthk/485d1c25737e8e72759f
