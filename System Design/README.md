@@ -36,6 +36,7 @@ Main difficulties:
 - How to handle too large distributed file storage?
 - What to do with too many old photos rows to not load DB (cold storage?)
 - How to enable so many connections for upload?
+- How to connect file upload with queue?
 
 ### Civilization Web
 
