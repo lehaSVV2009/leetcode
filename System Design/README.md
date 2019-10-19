@@ -67,7 +67,7 @@ retry after transaction
 
 UI -> API -> DB
 
-[Pastebin](./pastebin.jpg)
+![Pastebin](./pastebin.jpg)
 
 https://sketchboard.me/pBPw4RPhzoAJ#/
 
@@ -142,7 +142,7 @@ DB sharding - 1w
 
 **Diagrams**
 
-[Scale on the cloud](./scale_on_the_cloud.jpg)
+![Scale on the cloud](./scale_on_the_cloud.jpg)
 
 https://sketchboard.me/fBPw8sGVGNvl#/
 
@@ -155,15 +155,15 @@ How to use:
 Use cases:
 
 - Add photo
-  [Add photo](./google_photos_add_photo.jpg)
+  ![Add photo](./google_photos_add_photo.jpg)
 - See recent photos
-  [Recent photos](./google_photos_recent_photos.jpg)
+  ![Recent photos](./google_photos_recent_photos.jpg)
 - Share photo
-  [Share photo](./google_photos_share_photos.jpg)
+  ![Share photo](./google_photos_share_photos.jpg)
 - See shared photos
-  [Shared photos](./gooogle_photos_shared_photos.jpg)
+  ![Shared photos](./gooogle_photos_shared_photos.jpg)
 - Pricing
-  [Pricing](./google_photos_pricing.jpg)
+  ![Pricing](./google_photos_pricing.jpg)
 
 Main difficulties:
 
