@@ -32,6 +32,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/sqrtx/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/square-root-of-integer/) | [Sqrt(x)](/0069.Sqrt_x) | Easy | 100% | 5% | `Facebook` `Amazon` `Microsoft` |  |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](/0073.Set_Matrix_Zeroes) | Medium | 100% | 5% | `Oracle` `Amazon` |  |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](/0083.Remove_Duplicates_from_Sorted_List) | Easy | 100% | 100% | `Microsoft` `VMWare` |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/reverse-link-list-ii/)| [Roman to Integer](/0092.Reverse_Linked_List_II) | Medium | 100% | 100% | `Amazon` `Facebook` `Microsoft` |  |
 | [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](/0118.Pascal_Triangle) | Easy |  |  |  |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock) | Easy |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/single-number/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/single-number/) | [Single Number](/0136.Single_Number) | Easy | 85.61% | 71.15% | `Amazon` |  |
