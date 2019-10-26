@@ -36,6 +36,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](/0118.Pascal_Triangle) | Easy |  |  |  |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock) | Easy |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/single-number/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/single-number/) | [Single Number](/0136.Single_Number) | Easy | 85.61% | 71.15% | `Amazon` |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/linked-list-cycle-ii/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/list-cycle/) | [Linked List Cycle II](/0142.Linked_List_Cycle_II) | Medium | 100% | 11.00% | `Amazon` `Microsoft` `NetApp` |  |
 | [146](https://leetcode.com/problems/lru-cache) | [LRU Cache](/0146.LRU_Cache) | Hard |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/insertion-sort-list/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/insertion-sort-list/) | [Insertion Sort List](/0147.Insertion_Sort_List) | Medium | 63.32% | 100% | `Microsoft` `Google` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/reverse-words-in-a-string/) | [Reverse Words in a String](/0151.Reverse_Words_in_a_String) | Medium | 53.91% | 55.91% |  |  |
