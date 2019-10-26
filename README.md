@@ -100,15 +100,35 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 
 1. Ask about how it is going to be used
 2. Describe feature set
-3. Ask about constraints (how many potential users, some business corner cases)
-4. Draw high-level component structure
-5. Think about complex parts of system (API schema/DB schema/algorithms/...)
-6. Detect several difficulties/corner cases and potential solutions.
+3. Ask about assumptions/constraints (how many potential users, some business corner cases)
+4. Detect several difficulties/corner cases and potential solutions.
+5. Draw high-level component structure
+6. Think about and draw complex parts of system (API schema/DB schema/algorithms/...)
 7. Back-of-the-envelope calculations (how big DB we need for 1 million users)
-8. Scaling (vertical/horizontal/caching/load balancing/replications/...)
+8. Scaling (vertical/horizontal/caching/load balancing/replications/auto scaling/...)
 9. Estimates/Prices (optional)
 
 ## Practice
+
+### World sentiment online
+
+Design sentiment analysis system from a real-time stream from Twitter.
+
+**Assumptions**
+- Function to get emotion from text is already trained and implemented
+- Twitter firehose is going to be used (twitter messages streaming)
+
+**Feature set**
+- See average city mood (webapp)
+
+**Tricky parts:**
+- Realtime
+- 5 secs latency
+- What to store?
+
+**Design**
+- `Tweeter stream` -> `Balanced Services` -> `Queue` -> `Consumer` -> `Cloud Function` `Basic Filter` `Neural Network` -> `{ mood, country+city, date }` -> `Time-series database` / `Clickhouse`
+- `UI` -> Choose country + dates -> API -> `Time-series database`
 
 ### Pastebin
 
@@ -310,9 +330,11 @@ https://leetcode.com/discuss/interview-question/system-design/350261/Facebook-or
 
 ### Splitwise
 
+![Splitwise](./system_design_images/splitwise.jpg)
+
 https://leetcode.com/discuss/interview-question/system-design/306519/System-Design-or-Splitwise
 
-- Complexity is in algorithm (how to split 500 USD between 7 people)
+- Complexity is in algorithm (how to split 500 USD between 7 people). e.g. https://luckytoilet.wordpress.com/2014/04/05/splitting-utility-costs-between-roommates-is-np-complete/
 - You can store table with current user status (expenses) and separate table with debts
 - `{ type: 'half', payers: [{ user_id: 1, sum: 250, currency: 'USD' }], debtors: [{ user_id: 2 }, { user_id: 3 }] }`
 
