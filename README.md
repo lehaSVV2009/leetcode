@@ -99,14 +99,14 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 
 ## Steps
 
-1. Ask about how it is going to be used
+1. Ask about how it is going to be used (inputs/outputs of the system)
 2. Describe feature set
-3. Ask about assumptions/constraints (how many potential users, some business corner cases)
+3. Ask about assumptions/constraints (business corner cases, how many users, how much data to handle, how many requests per second, read to write ratio)
 4. Detect several difficulties/corner cases and potential solutions.
 5. Draw high-level component structure
 6. Think about and draw complex parts of system (API schema/DB schema/algorithms/...)
 7. Back-of-the-envelope calculations (how big DB we need for 1 million users)
-8. Scaling (vertical/horizontal/caching/load balancing/replications/auto scaling/...)
+8. Scaling (vertical/horizontal/caching/load balancing/replications/sharding/auto scaling/...)
 9. Estimates/Prices (optional)
 
 ## Practice
