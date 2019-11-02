@@ -30,6 +30,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [59](https://leetcode.com/problems/spiral-matrix-ii) | [Spiral Matrix II](/0014.Spiral_Matrix_II) | Medium |  |  |  |  |
 | [62](https://leetcode.com/problems/unique-paths/) | [Unique Paths](/0062.Unique_Paths) | Medium |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/sqrtx/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/square-root-of-integer/) | [Sqrt(x)](/0069.Sqrt_x) | Easy | 100% | 5% | `Facebook` `Amazon` `Microsoft` |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/simplify-path/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simplify-directory-path/) | [Simplify Path](/0071.Simplify_Path) | Medium | 85.44% | 100.00% | `Microsoft` |  |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](/0073.Set_Matrix_Zeroes) | Medium | 100% | 5% | `Oracle` `Amazon` |  |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](/0083.Remove_Duplicates_from_Sorted_List) | Easy | 100% | 100% | `Microsoft` `VMWare` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/reverse-link-list-ii/)| [Roman to Integer](/0092.Reverse_Linked_List_II) | Medium | 100% | 100% | `Amazon` `Facebook` `Microsoft` |  |
