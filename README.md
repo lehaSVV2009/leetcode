@@ -109,6 +109,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/VKdqbrq6B1S5XAyGAOn4) | [Sentence Reverse](/Pramp.Sentence_Reverse) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XlA) | [Find The Duplicates](/Pramp.Find_The_Duplicates) | Easy |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/yZm60L6d5juM7K38KYZ6) | [Island Count](/Pramp.Island_Count) | Medium |  |  |  |  |
+| [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/jKoA5GAVy9Sr9jGBjz04) | [Array Index & Element Equality](/Pramp.Array_Index_&_Element_Equality) | Medium |  |  |  |  |
 
 # System design
 
