@@ -48,6 +48,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/binary-tree-level-order-traversal/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/level-order/)| [Binary Tree Level Order Traversal](/0102.Binary_Tree_Level_Order_Traversal) | Medium | 78.95% | 23.53% | `Facebook` |  |
 | [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](/0118.Pascal_Triangle) | Easy |  |  |  |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](0121.Best_Time_to_Buy_and_Sell_Stock) | Easy |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](/0122.Best_Time_to_Buy_and_Sell_Stock_II) | Easy | 93.37% | 90.00% | `Amazon` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/single-number/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/single-number/) | [Single Number](/0136.Single_Number) | Easy | 85.61% | 71.15% | `Amazon` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/linked-list-cycle-ii/)[<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/list-cycle/) | [Linked List Cycle II](/0142.Linked_List_Cycle_II) | Medium | 100% | 11.00% | `Amazon` `Microsoft` `NetApp` |  |
 | [146](https://leetcode.com/problems/lru-cache) | [LRU Cache](/0146.LRU_Cache) | Hard |  |  |  |  |
@@ -75,6 +76,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](/0234.Palindrome_Linked_List) | Easy |  |  |  |  |
 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](/0242.Valid_Anagram) | Easy |  |  |  |  |
 | [262](https://leetcode.com/problems/trips-and-users) | [Trips and Users](/0262.Trips_and_Users) | Hard |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/move-zeroes)  | [Move Zeroes](/0283.Move_Zeroes) | Easy | 83.84% | 40.42% | | |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](0287.Find_the_Duplicate_Number) | Medium |  |  |  |  |
 | [324](https://leetcode.com/problems/wiggle-sort-ii) | [Wiggle Sort II](/0324.Wiggle_Sort_II) | Medium |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [N-ary Tree Level Order Traversal](/0429.Nary_Tree_Level_Order_Traversal) | Easy | 72.70% | 40.00% |  |  |
