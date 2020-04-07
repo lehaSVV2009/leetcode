@@ -95,6 +95,8 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [896](https://leetcode.com/problems/monotonic-array) | [Monotonic Array](/0896.Monotonic_Array) | Easy |  |  |  |  |
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](/0912.Sort_an_Array) | Medium |  |  |  |  |
 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon) | Medium |  |  |  |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/) | [Counting Elements
+](/1500.Counting_Elements) | Easy | | | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
