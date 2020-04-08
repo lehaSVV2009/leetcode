@@ -89,7 +89,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [627](https://leetcode.com/problems/swap-salary) | [Swap Salary](/0627.Swap_Salary) | Easy |  |  |  |  |
 | [783](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Minimum Distance Between BST Nodes](/0783.Minimum_Distance_Between_BST_Nodes) | Easy |  |  |  |  |
 | [848](https://leetcode.com/problems/shifting-letters) | [Shifting Letters](/0848.Shifting_Letters) | Medium |  |  |  |  |
-| [876](https://leetcode.com/problems/middle-of-the-linked-list) | [Middle of the Linked List](/0893.Middle_of_the_Linked_List) | Easy |  |  |  |  |
+| [876](https://leetcode.com/problems/middle-of-the-linked-list) | [Middle of the Linked List](/0876.Middle_of_the_Linked_List) | Easy | 97.28% | 33.33% |  |  |
 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](/0884.Uncommon_Words_from_Two_Sentences) | Easy |  |  |  |  |
 | [893](https://leetcode.com/problems/groups-of-special-equivalent-strings) | [Groups of Special-Equivalent Strings](/0893.Groups_of_Special-Equivalent_Strings) | Easy |  |  |  |  |
 | [896](https://leetcode.com/problems/monotonic-array) | [Monotonic Array](/0896.Monotonic_Array) | Easy |  |  |  |  |
