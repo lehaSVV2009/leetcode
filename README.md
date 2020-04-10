@@ -56,7 +56,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/max-points-on-a-line/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/points-on-the-straight-line/) | [Max Points on a Line](/0149.Max_Points_on_a_Line) | Hard | 87.96% | 85.71% | `Google` `Amazon` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/evaluate-expression/) | [Evaluate Reverse Polish Notation](/0150.Evaluate_Reverse_Polish_Notation) | Medium | 50.67% | 100% | `Yahoo` `Google` `Facebook` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/reverse-words-in-a-string/) | [Reverse Words in a String](/0151.Reverse_Words_in_a_String) | Medium | 53.91% | 55.91% |  |  |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/min-stack/) | [Min Stack](/0155.Min_Stack) | Easy | 99.28% | 29.71% | `Amazon` `Microsoft` `Adobe` `Yahoo` |  |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/min-stack/) | [Min Stack](/0155.Min_Stack) | Easy | 85.92% | 50.00% | `Amazon` `Microsoft` `Adobe` `Yahoo` |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](/0165.Compare_Version_Numbers) | Easy | 90.70% | 100% |  |  |
 | [172](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Factorial Trailing Zeroes](/0172.Factorial_Trailing_Zeroes) | Easy |  |  |  |  |
 | [175](https://leetcode.com/problems/combine-two-tables) | [Combine Two Tables](/0175.Combine_Two_Tables) | Easy |  |  |  |  |
