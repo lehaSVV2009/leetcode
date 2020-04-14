@@ -100,6 +100,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/) | [Counting Elements](/3289.Counting_Elements) | Easy | | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/) | [Last Stone Weight](/3297.Last_Stone_Weight) | Easy | 30.91% | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/) | [Contiguous Array](/3298.Contiguous_Array) | Easy | 94.83% | | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/) | [Perform String Shifts](/3299.Perform_String_Shifts) | Easy | | | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
