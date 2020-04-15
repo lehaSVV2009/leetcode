@@ -98,10 +98,10 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](/0912.Sort_an_Array) | Medium |  |  |  |  |
 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](/1039.Minimum_Score_Triangulation_of_Polygon) | Medium |  |  |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/) | [Counting Elements](/3289.Counting_Elements) | Easy | | | | |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/) | [Last Stone Weight](/3297.Last_Stone_Weight) | Easy | 30.91% | | | |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/) | [Contiguous Array](/3298.Contiguous_Array) | Easy | 94.83% | | | |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/) | [Perform String Shifts](/3299.Perform_String_Shifts) | Easy | | | | |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/submissions/detail/325181931/?from=/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [Product of Array Except Self](/3300.Product_of_Array_Except_Self) | Easy | | | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/) | [Last Stone Weight](/3297.Last_Stone_Weight) | Easy | 34.22% | | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/) | [Contiguous Array](/3298.Contiguous_Array) | Medium | 97.34% | | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/) | [Perform String Shifts](/3299.Perform_String_Shifts) | | | | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/submissions/detail/325181931/?from=/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [Product of Array Except Self](/3300.Product_of_Array_Except_Self) | Medium | 89.52% | 16.00% | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
