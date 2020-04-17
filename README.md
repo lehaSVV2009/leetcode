@@ -103,6 +103,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/) | [Perform String Shifts](/3299.Perform_String_Shifts) | | | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/submissions/detail/325181931/?from=/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [Product of Array Except Self](/3300.Product_of_Array_Except_Self) | Medium | 89.52% | 16.00% | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | [Valid Parenthesis String](/3301.Valid_Parenthesis_String) | Medium | 52.73% | | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/) [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/yZm60L6d5juM7K38KYZ6) | [Island Count](/Pramp.Island_Count) | Medium | 75.42% | 74.19% |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
@@ -119,7 +120,6 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1) | [Time Planner](/Pramp.Time_Planner) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/VKdqbrq6B1S5XAyGAOn4) | [Sentence Reverse](/Pramp.Sentence_Reverse) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XlA) | [Find The Duplicates](/Pramp.Find_The_Duplicates) | Easy |  |  |  |  |
-| [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/yZm60L6d5juM7K38KYZ6) | [Island Count](/Pramp.Island_Count) | Medium |  |  |  |  |
 | [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/jKoA5GAVy9Sr9jGBjz04) | [Array Index & Element Equality](/Pramp.Array_Index_&_Element_Equality) | Medium |  |  |  |  |
 
 # System design
