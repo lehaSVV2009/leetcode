@@ -104,7 +104,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/submissions/detail/325181931/?from=/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [Product of Array Except Self](/3300.Product_of_Array_Except_Self) | Medium | 89.52% | 16.00% | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | [Valid Parenthesis String](/3301.Valid_Parenthesis_String) | Medium | 52.73% | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/) [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/yZm60L6d5juM7K38KYZ6) | [Island Count](/Pramp.Island_Count) | Medium | 75.42% | 74.19% |  |  |
-| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [Minimum Path Sum](/3303.Minimum_Path_Sum) | Medium | 17.56% | 66.67% | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [Minimum Path Sum](/3303.Minimum_Path_Sum) | Medium | 85.44% | 100.00% | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |

@@ -45,23 +45,17 @@ var minPathSum = function(grid) {
         return 0;
     }
 
-    const memo = Array(grid.length);
-    for (let i = 0; i < memo.length; ++i) {
-        memo[i] = Array(grid[0].length);
-    }
-    memo[0][0] = grid[0][0];
-
     for (let j = 1; j < grid[0].length; ++j) {
-        memo[0][j] = memo[0][j - 1] + grid[0][j];
+        grid[0][j] = grid[0][j - 1] + grid[0][j];
     }
 
     for (let i = 1; i < grid.length; ++i) {
         const row = grid[i];
         for (let j = 0; j < row.length; ++j) {
-            memo[i][j] = row[j] + 
-                (j === 0 ? memo[i - 1][j] : Math.min(memo[i][j - 1], memo[i - 1][j]));
+            grid[i][j] = row[j] + 
+                (j === 0 ? grid[i - 1][j] : Math.min(grid[i][j - 1], grid[i - 1][j]));
         }
     }
     
-    return memo[grid.length - 1][grid[0].length - 1];
+    return grid[grid.length - 1][grid[0].length - 1];
 };
