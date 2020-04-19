@@ -105,6 +105,8 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | [Valid Parenthesis String](/3301.Valid_Parenthesis_String) | Medium | 52.73% | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/) [<img src="pramp.png" width="25px"/>](https://www.pramp.com/challenge/yZm60L6d5juM7K38KYZ6) | [Island Count](/Pramp.Island_Count) | Medium | 75.42% | 74.19% |  |  |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [Minimum Path Sum](/3303.Minimum_Path_Sum) | Medium | 85.44% | 100.00% | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/) | [Search in Rotated Sorted Array
+](/3304.Search_in_Rotated_Sorted_Array) | Medium | 85.41% | 42.31% | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
