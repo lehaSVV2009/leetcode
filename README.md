@@ -108,6 +108,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/) | [Search in Rotated Sorted Array
 ](/3304.Search_in_Rotated_Sorted_Array) | Medium | 85.41% | 42.31% | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3305/) | [Construct Binary Search Tree from Preorder Traversal](/3305.Construct_Binary_Search_Tree_from_Preorder_Traversal) | Medium | 32.37% | 80.00% | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/) | [Leftmost Column with at Least a One](/3306.Leftmost_Column_with_at_Least_a_One) | Medium | | | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
