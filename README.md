@@ -110,6 +110,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3305/) | [Construct Binary Search Tree from Preorder Traversal](/3305.Construct_Binary_Search_Tree_from_Preorder_Traversal) | Medium | 32.37% | 80.00% | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/) | [Leftmost Column with at Least a One](/3306.Leftmost_Column_with_at_Least_a_One) | Medium | | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/) | [Subarray Sum Equals K](/3306.Subarray_Sum_Equals_K) | Medium | 95.57% | 50.00% | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3308/) | [Bitwise AND of Numbers Range](/3307.Bitwise_AND_of_Numbers_Range) | Medium | 96.34% | | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
