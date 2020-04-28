@@ -114,6 +114,7 @@ My solutions on Leetcode (Java, JavaScript, SQL, Golang)
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/) | [Jump Game](/3308.Jump_Game) | Medium | 79.87% | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3311/) | [Longest Common Subsequence](/3311.Longest Common Subsequence) | Medium | 97.08% | | | |
 | [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/) | [Maximal Square](/3312.Maximal_Square) | Medium | 84.39% | 50.00% | | |
+| [<img src="leetcode.png" width="25px"/>](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/) | [First Unique Number](/3312.First_Unique_Number) | Medium | | | | |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/wave-array/) | [Wave Array](/InterviewBit.Wave_Array) | Easy |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/simple-queries/) | [Simple Queries](/InterviewBit.Simple_Queries) | Hard |  |  |  |  |
 | [<img src="interviewbit.png" width="25px"/>](https://www.interviewbit.com/problems/maxspprod/) | [MAXSPPROD](/InterviewBit.MAXSPPROD) | Medium |  |  |  |  |
